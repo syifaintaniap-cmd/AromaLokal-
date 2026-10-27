@@ -1,0 +1,6 @@
+{
+  "name": "AromaLokal by Moneera",
+  "description": "Platform kurasi & rekomendasi parfum lokal Indonesia terlengkap. Temukan parfum sesuai karakter, aroma, aktivitas, dan anggaranmu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
